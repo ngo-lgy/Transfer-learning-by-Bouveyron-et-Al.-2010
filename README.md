@@ -1,4 +1,4 @@
-# Transfert-learning-by-Bouveyron-et-Al.-2010
+# Transfer-learning-by-Bouveyron-et-Al.-2010
 
 Le présent projet ne peut être considéré comme indépendant du projet intitulé " Améliorer la régression linéaire multiple grâce au transfert d'apprentissage ", dont la lecture est nécessaire avant d’aborder celui-ci.
 L’objectif ici est de montrer comment, dans l’étude citée, il est possible d’estimer une transformation entre les fonctions de régression des populations source et cible.
